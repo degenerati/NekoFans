@@ -22,7 +22,7 @@ namespace Neko
 
         async static public Task<TextureWrap> nextNeko()
         {
-            var url = "https://nekos.life/api/v2/img/neko";
+            var url = "https://nekos.life/api/v2/img/lewd";
 
             // get a random image URL
             NekosLifeJson? response;
